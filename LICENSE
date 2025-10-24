@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2025 Sujan Mishra
+Copyright (c) 2024 Google LLC (Original MediaPipe implementation)
+Copyright (c) 2024 ocentra (Build optimizations and distribution)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +20,19 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+This distribution includes components from:
+
+1. MediaPipe by Google LLC
+   - Source: https://github.com/google/mediapipe
+   - License: Apache 2.0 License
+
+2. TensorFlow Lite by Google
+   - Source: https://github.com/tensorflow/tensorflow
+   - License: Apache 2.0 License
+
+3. Bazel build system by Google
+   - Source: https://github.com/bazelbuild/bazel
+   - License: Apache 2.0 License
